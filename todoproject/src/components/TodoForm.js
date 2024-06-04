@@ -18,7 +18,7 @@ onChange={(e)=>setTodo(e.target.value) }
 placeholder='add todo'
 />
 
-<button>Add Todo</button>
+<button>Add Todo this is my info</button>
     </form>
     </div>
   )
